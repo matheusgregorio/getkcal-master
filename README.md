@@ -1,8 +1,5 @@
-# getkcal
 
-Estes são os arquivos iniciais do projeto **getkcal** disponível no YouTube.
-
-## Instalação
+# Instalação
 
 Este projeto não precisa de nenhuma depedência para funcionar, porém durante a aula iremos utilizar o pacote `serve` para roda-lo no browser através de um servidor node.
 
